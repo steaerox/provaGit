@@ -5,6 +5,8 @@ public class Test {
 		// TODO Auto-generated constructor stub
 	}
 
+private int x;
+
 	/**
 	 * @param args
 	 */
