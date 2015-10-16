@@ -6,11 +6,9 @@ public class Test {
 	}
 
 private int x,y;
-private int copy-from-master-variable1;
 
-private int branch2-copy-from-master;
 
-private int masterVar;
+//new jMetalOpt
 
 	/**
 	 * @param args
