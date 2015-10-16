@@ -6,7 +6,7 @@ public class Test {
 	}
 
 private int x,y;
-private int copy-from-master-variable;
+private int copy-from-master-variable1;
 
 	/**
 	 * @param args
