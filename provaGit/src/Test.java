@@ -10,7 +10,11 @@ private int copy-from-master-variable1;
 
 private int branch2-copy-from-master;
 
+<<<<<<< HEAD
 private int copy-from-master
+=======
+private int masterVar;
+>>>>>>> master
 
 	/**
 	 * @param args
