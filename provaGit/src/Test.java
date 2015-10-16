@@ -9,6 +9,7 @@ private int x,y;
 
 
 //new jMetalOpt
+//commit 2
 
 	/**
 	 * @param args
